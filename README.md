@@ -4,7 +4,7 @@ Welcome to Vissy, an integral part of the MASSY Ecosystem, designed to elevate y
 
 **Key Features**:
 
-🔎 **Advanced Search**: Dive into your transcripts with our powerful search functionality. Whether you're looking for specific terms or phrases, Vissy helps you uncover the information that matters most.
+🔎 **Advanced Search**: Dive into your transcripts with our powerful search functionality. Whether you're looking for specific terms or phrases, Vissy helps you uncover the information that matters most. See When you talking about certain things.
 
 ✅ **Interactive Analysis**: With Vissy, your transcripts are more than just text. Explore interactive word clouds, frequency graphs, and sentiment analysis to gain deeper insights into your data.
 
@@ -12,7 +12,7 @@ Welcome to Vissy, an integral part of the MASSY Ecosystem, designed to elevate y
 
 📝 **Effortless Organization**: Organize your transcripts by date, context, and relevance. Vissy's intuitive interface ensures that your data is always at your fingertips, ready for exploration.
 
-🔄 **Real-time Updates**: As part of the MASSY Ecosystem, Vissy is designed to work seamlessly with other AI-assisted tools, ensuring that your transcript analysis is always up-to-date and integrated with the latest AI technologies.
+🔄 **Real-time Updates**: As part of the TaskAi Ecosystem, Vissy is designed to work seamlessly with transcripts from other AI-assisted tools, ensuring that your transcript analysis is always up-to-date and integrated with the latest AI technologies.
 
 📋 **Requirements**:
 - Python 3.7+
