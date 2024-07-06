@@ -1,6 +1,6 @@
 🔍 Vissy: Transforming Transcripts into Insights 📈
 
-Welcome to Vissy, an integral part of the MASSY Ecosystem, designed to elevate your understanding and interaction with transcripts. Vissy stands at the forefront of transcript analysis, offering a suite of tools that bring your text data to life. 📘
+Welcome to Vissy, an integral part of the TaskAi Ecosystem, designed to elevate your understanding and interaction with transcripts. Vissy stands at the forefront of transcript analysis, offering a suite of tools that bring your text data to life. 📘
 
 **Key Features**:
 
