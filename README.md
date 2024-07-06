@@ -28,4 +28,4 @@ Distributed under the MIT License. See LICENSE for more information.
 📞 **Contact**:
 Project Link: https://github.com/taskmasterpeace/Vissy
 
-Join us in transforming the way we interact with transcripts. With Vissy, every word counts. 🌟
+Join us in transforming the way we interact with our past experiences. 🌟
